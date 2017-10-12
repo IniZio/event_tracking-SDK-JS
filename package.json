@@ -2,7 +2,7 @@
   "name": "skygear-event-tracking",
   "version": "0.1.0",
   "description": "Event tracking plugin for Skygear",
-  "main": "dist/bundle.cjs.js",
+  "main": "build/bundle.cjs.js",
   "scripts": {
     "check": "prettier -l --single-quote --trailing-comma es5 'src/**/*.js'",
     "format": "prettier --write --single-quote --trailing-comma es5 'src/**/*.js'",
