@@ -10,7 +10,7 @@
     "umd": "rollup -c --environment format:umd",
     "cjs": "rollup -c --environment format:cjs",
     "build": "npm run umd && npm run cjs",
-    "prepublish": "npm run check && npm run flow && npm run build"
+    "prepublish": "npm run check && npm run build"
   },
   "repository": {
     "type": "git",
